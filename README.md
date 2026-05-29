@@ -80,16 +80,16 @@ Server LAN  Client LAN  Management
 
 ## Documentation
 
-Full build documentation is in [`/docs`](./docs):
+Full build documentation is in [`/docs`](./Docs):
 
-- [`network-design.md`](./docs/network-design.md) — IP addressing, subnet decisions, topology
-- [`windows-server.md`](./docs/windows-server.md) — AD DS setup, DNS zones, DHCP scopes
-- [`ubuntu-server.md`](./docs/ubuntu-server.md) — Apache, Samba, SSH configuration
-- [`pfsense.md`](./docs/pfsense.md) — Firewall rules, NAT, routing
-- [`troubleshooting.md`](./docs/troubleshooting.md) — Issues encountered and how they were resolved
+- [`network-design.md`](./Docs/network-design.md) — IP addressing, subnet decisions, topology
+- [`windows-server.md`](./Docs/windows-server.md) — AD DS setup, DNS zones, DHCP scopes
+- [`ubuntu-server.md`](./Docs/ubuntu-server.md) — Apache, Samba, SSH configuration
+- [`pfsense.md`](./Docs/pfsense.md) — Firewall rules, NAT, routing
+- [`troubleshooting.md`](./Docs/troubleshooting.md) — Issues encountered and how they were resolved
 
 ---
 
 ## Status
 
-Currently in progress. Phases 1–2 complete.
+Currently in progress. Phases 2 complete.
