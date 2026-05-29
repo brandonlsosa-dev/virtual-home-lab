@@ -47,11 +47,11 @@ Server LAN  Client LAN  Management
 
 | Item              | Detail                              |
 |-------------------|-------------------------------------|
-| Host OS           | *(your OS here)*                    |
-| CPU               | *(your CPU here)* — VT-x enabled    |
-| RAM               | *(your RAM here)*                   |
-| Disk              | *(your available disk here)*        |
-| Hypervisor        | VMware Workstation Pro *(version)*  |
+| Host OS           | Windows 11 Home                     |
+| CPU               | Intel Core i7-12700H — VT-x enabled |
+| RAM               | 32 GB                               |
+| Disk              | 500 GB SSD available                |
+| Hypervisor        | VMware Workstation Pro 26H1         |
 
 ---
 
