@@ -26,3 +26,5 @@
 | VMnet3 | Host-only | 192.168.20.0/24 | Disabled          |
 | VMnet4 | Host-only | 192.168.30.0/24 | Enabled (VMware)  |
 | VMnet8 | NAT       | assigned by VMware | Enabled (VMware)|
+
+<img width="663" height="610" alt="image" src="https://github.com/user-attachments/assets/2b8cd8d7-d8b4-4cdc-b4d6-a84985f48bb2" />
