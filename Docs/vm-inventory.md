@@ -17,11 +17,11 @@
 | pfSense 2.7         | pfsense.org/download                        | Open source     |
 
 ## Screenshots
-<img width="760" height="732" alt="image" src="https://github.com/user-attachments/assets/d9646e31-a985-4176-b51a-b5bae3ee9b82" />
+<img width="756" height="733" alt="image" src="https://github.com/user-attachments/assets/524f79aa-716f-4a1d-9154-71ba78acdd36" />
 
-<img width="759" height="729" alt="image" src="https://github.com/user-attachments/assets/b787b7f8-2152-4e9a-a6ed-c5aa8c2c5d66" />
+<img width="311" height="426" alt="image" src="https://github.com/user-attachments/assets/c8efd91c-e92e-4a2c-9342-a66274f787b1" />
 
-<img width="1708" height="1358" alt="image" src="https://github.com/user-attachments/assets/365d65c8-7507-4c01-b394-9ba38e5e01d3" />
+<img width="1509" height="1261" alt="image" src="https://github.com/user-attachments/assets/ea703071-828b-47e5-83ac-dbf8f17eb6be" />
 
 
 
